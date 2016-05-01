@@ -1,12 +1,12 @@
 # Voicecraft-Reference
 
-##### Knowledge building
+##### Knowledge building (~5/8)
 - [ ] PJSIP
 - [ ] jQuery
 - [ ] Bootstrap
 - [ ] OAuth2
 
-##### Implement
+##### Implement (~6/12)
 - [ ] Processing...
 
 ##### Reference
