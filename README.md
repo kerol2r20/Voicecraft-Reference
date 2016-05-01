@@ -21,3 +21,4 @@
 6. [Capturing Audio & Video in HTML5 (EN)](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
 7. [Travis CI for Django (CN)](http://pycoders-weekly-chinese.readthedocs.io/en/latest/issue12/Using-Travis-CI-With-Python-and-Django.html)
 8. [PEP8 (CN)](http://python.freelycode.com/contribution/detail/47)
+9. [獲取錄音資訊](http://www.oxxostudio.tw/articles/201601/web-audio-recorder.html)
