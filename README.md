@@ -19,5 +19,5 @@
 4. [Django Tutorial (TW)](http://dokelung-blog.logdown.com/archives)
 5. [jQuery W3school (CN)](http://www.w3school.com.cn/jquery/index.asp)
 6. [Capturing Audio & Video in HTML5 (EN)](http://www.html5rocks.com/en/tutorials/getusermedia/intro/)
-7. [Travis CI for Django](http://pycoders-weekly-chinese.readthedocs.io/en/latest/issue12/Using-Travis-CI-With-Python-and-Django.html)
+7. [Travis CI for Django (CN)](http://pycoders-weekly-chinese.readthedocs.io/en/latest/issue12/Using-Travis-CI-With-Python-and-Django.html)
 8. [PEP8 (CN)](http://python.freelycode.com/contribution/detail/47)
