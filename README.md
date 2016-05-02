@@ -23,3 +23,4 @@
 8. [PEP8 (CN)](http://python.freelycode.com/contribution/detail/47)
 9. [獲取錄音資訊](http://www.oxxostudio.tw/articles/201601/web-audio-recorder.html)
 10. [Django-socketio](https://github.com/stephenmcd/django-socketio):用瀏覽器建立TCP Socket
+11. [WebSocket 通訊協定簡介：比較 Polling、Long-Polling 與 Streaming 的運作原理](http://blogger.gtwang.org/2014/01/websocket-protocol.html)
