@@ -22,3 +22,4 @@
 7. [Travis CI for Django (CN)](http://pycoders-weekly-chinese.readthedocs.io/en/latest/issue12/Using-Travis-CI-With-Python-and-Django.html)
 8. [PEP8 (CN)](http://python.freelycode.com/contribution/detail/47)
 9. [獲取錄音資訊](http://www.oxxostudio.tw/articles/201601/web-audio-recorder.html)
+10. [Django-socketio](https://github.com/stephenmcd/django-socketio):用瀏覽器建立TCP Socket
